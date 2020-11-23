@@ -1,2 +1,2 @@
 # Amazon-TPlink Review Predictor
-A simple Flask API to detect spam or ham using Python and sklearn
+A simple Flask API to detect positive or negative or neutral using Python and sklearn
